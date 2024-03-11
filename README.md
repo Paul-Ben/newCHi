@@ -19,6 +19,5 @@ This is a web application. A Website with a landing page and an admin panel to m
 - browser url is http://127.0.0.1:8000 to check that the application is running fine.
 - Visit http:..127.0.0.1:8000/register to create a new account.
 - login wiht the credentials created to explore the admin panel.
-
-## sample database file that can be used to set up your database is in the main folder  a file named nuchi.sql
+- sample database file that can be used to set up your database is in the main folder  a file named nuchi.sql
 
