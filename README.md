@@ -6,7 +6,7 @@
 This is a web application. A Website with a landing page and an admin panel to manage CRUD operations using Laravel (laravel version 10).
 
 # How to Use
-- Clone the repository and navigate (cd) into it: `git clone https://github.dev/Paul-Ben/newCHi
+- Clone the repository and navigate (cd) into it: `git clone https://github.dev/Paul-Ben/newCHi`
 
 - copy contents of .env.example file to .env file.
 - update the database details in the .env file as 
